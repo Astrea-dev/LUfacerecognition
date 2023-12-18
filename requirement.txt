@@ -9,3 +9,4 @@ face-recognition
 cvzone
 firebase_admin
 flask
+wheel
