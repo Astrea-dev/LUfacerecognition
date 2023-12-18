@@ -4,7 +4,7 @@ matplotlib
 seaborn
 opencv-python
 cmake
-dlib
+dlib-19.22.99-cp39-cp39-win_amd64.whl
 face-recognition
 cvzone
 firebase_admin
